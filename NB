@@ -13,12 +13,12 @@
     <div id = "left_side">
         <h1>Name</h1>
         <h2>Title</h2>
-        <p>Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text</p>
+        <p>Temp</p>
 
         <div id = "profile">
             <h2>Profile</h2>
-            <p>Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text</p>
-            <p>Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text Temp Text</p>
+            <p>text</p>
+            <p>Text</p>
         </div>
 
         <div id = "skills">
