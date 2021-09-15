@@ -30,7 +30,7 @@ h2 {
   position: relative;
   top: 15px;
   border-bottom: black solid 1px;
-  color: darkseagreen;
+  color: lightblue;
 }
 
 #title {
@@ -44,7 +44,7 @@ p {
 }
 
 h1 {
-  background-color: darkseagreen;
+  background-color: lightblue;
   padding: 0.2em;
   border-radius: 5em;
 
