@@ -1,1 +1,35 @@
-
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    max-width: 1000px;
+    display: flex;
+    align-items: flex-start;
+    font-size: 12pt;
+}
+#left_side{
+    flex: 1 1 600px;
+    padding: 1em;
+    line-height: 1.5em;
+}
+#right_side{
+    border-left: black solid 1px;
+    flex: 1 1 600px;
+    padding: 1em;
+    line-height: 1.5em;
+}
+h1,
+h2{
+    text-align: center;
+}
+h2{
+    position: relative; top: 15px;
+    border-bottom: black solid 1px;
+}
+#title{
+    text-align: center;
+    font-size: 24px;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: .5em;
+}
